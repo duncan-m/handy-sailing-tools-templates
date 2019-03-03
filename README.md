@@ -6,5 +6,5 @@ Documents/tools here are substitute for professional training and should be adap
 
 Please feel free to suggest improvements etc. 
 
-License: GNU General Public License v3.0
+License: GNU General Public License v3.0 //
 Please contact if you would like to not use under this license.
